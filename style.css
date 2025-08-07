@@ -2,3 +2,18 @@ body {
     background-color: black;
     color: azure;
 }
+
+img{
+    height: 50px;
+    
+}
+
+.categoria-vídeos{
+    display: flex;
+    overflow-x: auto;
+    gap: 10px;
+}
+
+section{
+    padding-right: 10px;
+}
